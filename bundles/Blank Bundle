@@ -1,3 +1,74 @@
+#Objectives
+
+genesis.ferrinite = 
+genesis.demetite = 
+genesis.walls = 
+genesis.catapults =  
+
+objective.read = 
+
+ignition.power = 
+ignition.generator = 
+ignition.connect = 
+ignition.enemies1 = 
+ignition.alert =
+
+lattice.lodestone = 
+lattice.produce = 
+lattice.enemies2 = 
+lattice.worldmessage = 
+
+fulge.lithium = 
+fulge.create = 
+fulge.enemies3 = 
+
+immist.ground = 
+immist.shiv = 
+immist.command =
+immist.constituent = 
+immist.skills = 
+
+edo.flag1 = 
+edo.flag2 = 
+edo.flag3 = 
+edo.flag4 = 
+
+igneouspeaks.obsidian = 
+
+detrimentvalley.barite = 
+detrimentvalley.creatures = 
+detrimentvalley.creatureslocate =
+
+factoryunit.enemytank = 
+factoryunit.enemymech =
+factoryunit.enemysupport = 
+
+evene.enemymech = 
+evene.enemyhover = 
+evene.enemytank = 
+evene.support = 
+
+baritevalley.sensor1 = 
+
+bioweapon.sensor2 = 
+bioweapon.backonline = 
+bioweapon.intervention = 
+bioweapon.final1 = 
+
+acropolis.enemytank2 = 
+acropolis.enemymech2 = 
+acropolis.final2 =
+
+
+
+#Teams (if you can't translate this to your language properly, just leave them as they are)
+
+team.sharded.name = 
+
+team.crux.name = 
+
+
+
 #Items
 
 item.asthosus-01a-01-item-ferrinite.name = 
